@@ -2,3 +2,5 @@ Emotion_Detection_code.ipynb
           - It is the code for emotion detection on fake and real data using two VGG16 based models.
 Synthetic Image Dataset
           - It a directory which has the ai generated images we used for testing in emotion detection code.
+Fake_real_faces.ipynb
+          - It is the code to reproduce the results of the differentiation of real and fake images, including the analysis of the images.
